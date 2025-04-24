@@ -13,7 +13,7 @@
     <td><img src="Picture/ball1.jpg" width="200"></td>
     <td><img src="Picture/ball2.jpg" width="200"></td>
     <td><img src="Picture/circle.jpg" width="200"></td>
-    <td><img src="Picture/planet.webp" width="200"></td>
+   
     
   </tr>
 </table>
