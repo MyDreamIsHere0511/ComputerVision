@@ -24,8 +24,8 @@
     <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/circle1.jpg">Ảnh đường tròn 2</th>
   </tr>
   <tr>
-    <td><img src="Picture/ball2.png" width="200"></td>
-    <td><img src="Picture/circle1.jpg" width="200"></td>
+    <td><img src="Picture/ball2.png" width="400"></td>
+    <td><img src="Picture/circle1.jpg" width="400"></td>
     <td><img src="Picture/planet.webp" width="400"></td>    
   </tr>
 </table>
