@@ -11,10 +11,14 @@
   </tr>
   <tr>
     <td><img src="Picture/ball1.jpg" width="200">
-        <p>ball1.jpg</p>
+        <p align="center">ball1.jpg</p>
     </td>
-    <td><img src="Picture/sudoku.jpg" width="400"></td>
-    <td><img src="Picture/hinhkhoi.jpg" width="400"></td>
+    <td><img src="Picture/sudoku.jpg" width="400">
+        <p align="center">sudoku.jpg</p>
+    </td>
+    <td><img src="Picture/hinhkhoi.jpg" width="400">
+        <p align="center">hinhkhoi.jpg</p>
+    </td>
   </tr>
 </table>
 
@@ -25,8 +29,14 @@
     <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/circle1.jpg">Ảnh đường tròn 2</th>
   </tr>
   <tr>
-    <td><img src="Picture/circle1.jpg" width="400"></td>
-    <td><img src="Picture/planet.webp" width="400"></td> 
-    <td><img src="Picture/ball2.png" width="400"></td>  
+    <td><img src="Picture/circle1.jpg" width="400">
+        <p align="center">circle1.jpg</p>
+    </td>
+    <td><img src="Picture/planet.webp" width="400">
+        <p align="center">plant.webp</p>
+    </td> 
+    <td><img src="Picture/ball2.png" width="400">
+        <p align="center">ball2.png</p>
+    </td>  
   </tr>
 </table>
