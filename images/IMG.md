@@ -19,9 +19,9 @@
 
 <table>
   <tr>
-    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/ball1.jpg">Ảnh đường tròn 3</a></th>
-    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/sudoku.jpg">Ảnh đường thẳng 2</th>
-    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/sudoku.jpg">Ảnh đường thẳng 3</th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/planet.webp">Ảnh đường tròn 3</a></th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/sudoku.jpg">Ảnh đường thẳng 2</th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/hinhkhoi.jpg">Ảnh đường thẳng 3</th>
   </tr>
   <tr>
     <td><img src="Picture/planet.webp" width="400"></td>
