@@ -8,8 +8,8 @@ from matplotlib.gridspec import GridSpec
 
 # Cau hinh duong dan - dat o dau de de chinh sua
 input_filename = 'ball1.jpg'  # Ten file anh dau vao
-output_filename = 'result_lines.jpg'  # Ten file anh ket qua
-figure_filename = 'result_combined.png'  # Ten file anh ket hop
+output_filename = 'ball1test.jpg'  # Ten file anh ket qua
+figure_filename = 'resultball1.png'  # Ten file anh ket hop
 
 # Ham tim anh
 def find_image(filename):
