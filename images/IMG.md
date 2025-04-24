@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td><img src="Picture/ball1.jpg" width="200"></td>
-    <td><img src="Picture/ball2.jpg" width="200"></td>
-    <td><img src="Picture/circle.jpg" width="200"></td>
+    <td><img src="Picture/ball2.png" width="200"></td>
+    <td><img src="Picture/circle1.jpg" width="200"></td>
    
     
   </tr>
