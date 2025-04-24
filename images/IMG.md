@@ -4,4 +4,13 @@
 
 ## Ảnh sudoku chứa nhiều đường thẳng.
 
-![alt text](1.jpg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <h3>Ảnh bóng bầu dục</h3>
+    <img src="images/hi.jpg" width="400" alt="Ảnh bóng bầu dục">
+  </div>
+  <div style="text-align: center;">
+    <h3>Ảnh Sudoku</h3>
+    <img src="images/1.jpg" width="400" alt="Ảnh Sudoku">
+  </div>
+</div>
