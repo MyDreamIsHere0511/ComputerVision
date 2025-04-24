@@ -7,11 +7,11 @@
 
 <table>
   <tr>
-    <th>[Ảnh bóng bầu dục](https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/ball1.jpg)</th>
-    <th>Ảnh Sudoku</th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/ball1.jpg">Ảnh bóng bầu dục</a></th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/sudoku.jpg">Ảnh Sudoku</th>
   </tr>
   <tr>
-    <td><img src="ball1.jpg" width="200"></td>
-    <td><img src="sudoku.jpg" width="200"></td>
+    <td><img src="Picture/ball1.jpg" width="200"></td>
+    <td><img src="Picture/sudoku.jpg" width="200"></td>
   </tr>
 </table>
