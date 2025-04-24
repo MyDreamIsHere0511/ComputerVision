@@ -6,19 +6,21 @@
 
 <table>
   <tr>
-    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/ball1.jpg">Ảnh bóng bầu dục</a></th>
-    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/sudoku.jpg">Ảnh Sudoku</th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/ball1.jpg">Ảnh đường thẳng1</a></th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/ball2.png">Ảnh đường tròn 11</th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/circle1.jpg">Ảnh đường tròn 2</th>
   </tr>
   <tr>
     <td><img src="Picture/ball1.jpg" width="200"></td>
-    <td><img src="Picture/ball2.png" width="400"></td>
-    <td><img src="Picture/circle1.jpg" width="400"></td>
+    <td><img src="Picture/ball2.png" width="200"></td>
+    <td><img src="Picture/circle1.jpg" width="200"></td>
   </tr>
 </table>
 
 <table>
   <tr>
     <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/ball1.jpg">Ảnh bóng bầu dục</a></th>
+    <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/sudoku.jpg">Ảnh Sudoku</th>
     <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/sudoku.jpg">Ảnh Sudoku</th>
   </tr>
   <tr>
