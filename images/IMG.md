@@ -2,16 +2,52 @@
 
 <div align="center">
   <h2>Thư mục tổng hợp một số ảnh gốc</h2>
-  <p><em>HONG TIN DO PHAN GIAI CUA CAC ANH
-============================================================
-Ten file             Do phan giai    Kenh mau   Kich thuoc file
-------------------------------------------------------------
-ball2.png            630 x 474       3          199.13 KB      
-plant.webp           663 x 448       3          10.77 KB       
-circle1.jpg          640 x 480       3          54.01 KB       
-hinhkhoi.jpg         2816 x 2112     3          341.20 KB      
-ball1.jpg            700 x 997       3          60.68 KB       
-sudoku.jpg           736 x 543       3          71.25 KB  </em></p>
+  <h3>Thông tin độ phân giải của các ảnh</h3>
+  
+  <table border="1" cellpadding="5" cellspacing="0" style="margin: 0 auto;">
+    <tr>
+      <th>Tên file</th>
+      <th>Độ phân giải</th>
+      <th>Kênh màu</th>
+      <th>Kích thước file</th>
+    </tr>
+    <tr>
+      <td>ball2.png</td>
+      <td>630 x 474</td>
+      <td>3</td>
+      <td>199.13 KB</td>
+    </tr>
+    <tr>
+      <td>plant.webp</td>
+      <td>663 x 448</td>
+      <td>3</td>
+      <td>10.77 KB</td>
+    </tr>
+    <tr>
+      <td>circle1.jpg</td>
+      <td>640 x 480</td>
+      <td>3</td>
+      <td>54.01 KB</td>
+    </tr>
+    <tr>
+      <td>hinhkhoi.jpg</td>
+      <td>2816 x 2112</td>
+      <td>3</td>
+      <td>341.20 KB</td>
+    </tr>
+    <tr>
+      <td>ball1.jpg</td>
+      <td>700 x 997</td>
+      <td>3</td>
+      <td>60.68 KB</td>
+    </tr>
+    <tr>
+      <td>sudoku.jpg</td>
+      <td>736 x 543</td>
+      <td>3</td>
+      <td>71.25 KB</td>
+    </tr>
+  </table>
 
 <table>
   <tr>
