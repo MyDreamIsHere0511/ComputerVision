@@ -11,7 +11,7 @@
     <th>Ảnh Sudoku</th>
   </tr>
   <tr>
-    <td><img src="hi.jpg" width="200"></td>
-    <td><img src="1.jpg" width="200"></td>
+    <td><img src="ball1.jpg" width="200"></td>
+    <td><img src="sudoku.jpg" width="200"></td>
   </tr>
 </table>
