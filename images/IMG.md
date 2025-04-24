@@ -12,6 +12,7 @@ circle1.jpg          640 x 480       3          54.01 KB
 hinhkhoi.jpg         2816 x 2112     3          341.20 KB      
 ball1.jpg            700 x 997       3          60.68 KB       
 sudoku.jpg           736 x 543       3          71.25 KB  </em></p>
+
 <table>
   <tr>
     <th><a href="https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/Picture/ball1.jpg">Ảnh đường thẳng1</a></th>
