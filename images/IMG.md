@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <th>Ảnh bóng bầu dục</th>
+    <th>[Ảnh bóng bầu dục](https://github.com/MyDreamIsHere0511/ComputerVision/blob/main/images/ball1.jpg)</th>
     <th>Ảnh Sudoku</th>
   </tr>
   <tr>
