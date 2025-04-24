@@ -2,7 +2,6 @@
 
 <div align="center">
   <h2>Thư mục tổng hợp một số ảnh gốc</h2>
-  <h3>Thông tin độ phân giải của các ảnh</h3>
   
   <table border="1" cellpadding="5" cellspacing="0" style="margin: 0 auto;">
     <tr>
