@@ -15,5 +15,6 @@
     <td><img src="Picture/circle1.jpg" width="200"></td>
     <td><img src="Picture/planet.webp" width="200"></td>
     <td><img src="Picture/sudoku.jpg" width="200"></td>
+    <td><img src="Picture/hinhkhoi.jpg" width="200"></td>
   </tr>
 </table>
